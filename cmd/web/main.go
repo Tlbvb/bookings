@@ -52,3 +52,9 @@ func main() {
 //Emmet, formerly known as Zen Coding, is a web development tool and abbreviation engine that makes it easier and faster to write HTML and CSS code.
 //go run .  -> run multiple files at the same time
 //go run ./cmd/web  works in both mac and windows
+//ls la-> all the files in the project including the files that are not seen-> .gitignore
+
+//git-> git init
+//git add .
+// git commit -m "first commit"
+//push an existing repo from command line
